@@ -1,0 +1,128 @@
+(footprint "LiPo Charger 38x17"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -13.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6ec04014-762d-44a8-bd96-079aacfbb0e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LiPo Charger 38x17"
+		(at 0 -12 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bb483590-2f66-494e-b914-54d9670c73b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -13 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc07e790-2193-4061-b982-f5d9e31d1170")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 -13 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ef6c7fe3-e62c-4223-a147-e12adceba110")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -19 -8.5)
+		(end 7.65 8.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "9db6514f-1820-425f-8415-dcead4c8f83c")
+	)
+	(fp_rect
+		(start -20 -9)
+		(end 9.48 9)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c999b9d1-7354-4e9b-bed7-7eb3f409127b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -10.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2237e041-239e-4d52-b8e9-418383a1d57e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -17.5 -7)
+		(size 2.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fa83fa2d-373d-4021-8c0b-b6ac0d8ee5bb")
+	)
+	(pad "2" smd rect
+		(at -17.5 7)
+		(size 2.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8d8d686a-6500-4340-b0ca-468834810bde")
+	)
+	(pad "3" smd rect
+		(at 5 -7)
+		(size 2.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "978dcd2b-e424-4761-af05-d75714898a11")
+	)
+	(pad "4" smd rect
+		(at 5 -4)
+		(size 2.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1463bdea-02be-44c3-8da4-d03fcb32802e")
+	)
+	(pad "5" smd rect
+		(at 5 4)
+		(size 2.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7ca73b93-7c6d-451d-a1d1-03ab9def9e13")
+	)
+	(pad "6" smd rect
+		(at 5 7)
+		(size 2.5 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8bae7a5e-fb08-4be3-b8ac-c9e1bd06be07")
+	)
+	(embedded_fonts no)
+)

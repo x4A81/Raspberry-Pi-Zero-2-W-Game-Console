@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ButtonContacts")(type "KiCad")(uri "${KIPRJMOD}/ButtonContacts.kicad_sym")(options "")(descr ""))
+  (lib (name "RASPBERRY_PI_ZERO_2_W")(type "KiCad")(uri "${KIPRJMOD}/RASPBERRY_PI_ZERO_2_W/RASPBERRY_PI_ZERO_2_W.kicad_sym")(options "")(descr ""))
+  (lib (name "lcddisplay")(type "KiCad")(uri "${KIPRJMOD}/lcddisplay.kicad_sym")(options "")(descr ""))
+  (lib (name "LipoCharger")(type "KiCad")(uri "${KIPRJMOD}/LipoCharger.kicad_sym")(options "")(descr ""))
+  (lib (name "VoltageBooster")(type "KiCad")(uri "${KIPRJMOD}/VoltageBooster.kicad_sym")(options "")(descr ""))
+  (lib (name "AudioBoardIS2")(type "KiCad")(uri "${KIPRJMOD}/AudioBoardIS2.kicad_sym")(options "")(descr ""))
+)

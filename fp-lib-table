@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ButtonContacts")(type "KiCad")(uri "${KIPRJMOD}/ButtonContacts.pretty")(options "")(descr ""))
+  (lib (name "RASPBERRY_PI_ZERO_2_W")(type "KiCad")(uri "${KIPRJMOD}/RASPBERRY_PI_ZERO_2_W")(options "")(descr ""))
+  (lib (name "LiPoBattery")(type "KiCad")(uri "${KIPRJMOD}/LiPoBattery.pretty")(options "")(descr ""))
+  (lib (name "LiPoCharger")(type "KiCad")(uri "${KIPRJMOD}/LiPoCharger.pretty")(options "")(descr ""))
+  (lib (name "BoostConverter")(type "KiCad")(uri "${KIPRJMOD}/BoostConverter.pretty")(options "")(descr ""))
+  (lib (name "AudioBoard")(type "KiCad")(uri "${KIPRJMOD}/AudioBoard.pretty")(options "")(descr ""))
+  (lib (name "LCD")(type "KiCad")(uri "${KIPRJMOD}/LCD.pretty")(options "")(descr ""))
+)

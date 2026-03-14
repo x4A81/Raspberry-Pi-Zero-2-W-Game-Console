@@ -1,0 +1,92 @@
+(footprint "LipoBattery50x60"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.2475 -27.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a686a4fe-f39b-47e4-a67a-b599012e76f6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LipoBattery50x60"
+		(at 0.2175 -30.14 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8e0b618e-9ccf-4335-b76b-dbf8f70e710c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -0.1175 -25.18 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "38d2f0e2-ab0e-4484-bd7a-971fc131da91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -0.1175 -25.18 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa5baa4c-c457-4c2e-9dc7-5db3d38610db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -30.0975 -25.18)
+		(end 29.9025 24.82)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7b11291d-b9d1-4663-a128-ba6be2eb802e")
+	)
+	(fp_rect
+		(start -30.6075 -25.6)
+		(end 30.6075 25.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "296945d9-2e89-4b27-abda-4b405d046b38")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.0925 -32.04 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9c926b38-fc7c-4845-b0dd-82b5d6890036")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
